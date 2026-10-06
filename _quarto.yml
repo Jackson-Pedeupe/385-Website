@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "My test website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      
+
+sidebar:
+  style: "docked"
+    search: true
+    contents:
+      - section: "Assignments"
+        contents:
+          - href: ae03-gerrymander.qmd
+          text: "AE 03 - Gerrymandering"
+
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,11 @@
+---
+title: "385 Website"
+---
+
+The website example I liked was a python data science wwebsite
+
+<https://pythonds.linogaliana.fr/>
+
+[Python] (https://pythonds.linogaliana.fr/)
+
+I can use this as a template for my project
